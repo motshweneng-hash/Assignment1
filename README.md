@@ -1,5 +1,5 @@
 # Assignment1
-Good day. MY NAME IS Noluthando.
+Good day. My name is Noluthando.
 This app will give users helpful suggestions based on the time of day they enter.
 When the user presses the submit button, the app reads what was typed,and then checks it against a list of known times of day.
 If the input matches one of the expected options, the app displays a suggestion related to that time; if it does not match, 
